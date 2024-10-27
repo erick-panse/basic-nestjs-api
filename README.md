@@ -24,7 +24,9 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Implementação básica de CRUD usando Nestjs, Typescript e ORM Prisma
+
+Basic CRUD implementation using Nestjs, Typescript & Prisma ORM
 
 ## Project setup
 
